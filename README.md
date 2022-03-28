@@ -23,4 +23,4 @@ There are 5 Courses in this Specialization:
  5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 ## Note
-The specialization is a work in progress. The repo will be updated with the code of the assignments soon!
+The specialization is a work in progress. The repo will be updated with the code from the assignments soon!
