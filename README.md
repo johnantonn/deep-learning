@@ -15,12 +15,15 @@ Main topics of this specialization:
 **Source:** [About this specialization](https://www.coursera.org/specializations/deep-learning?)
 
 ## Courses
-There are 5 Courses in this Specialization:
- 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
- 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
- 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
- 4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
- 5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+There are 5 Courses in this Specialization, summarized in the below table.
+| # | Course Title | Progress | Certificate |
+| ------------- | ------------- |:-------------:|:-------------:|
+| 1  | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Completed | [:link:]() |
+| 2  | [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | Completed | [:link:]() |
+| 3  | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | Completed | [:link:]()|
+| 4  | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)  | In progress | |
+| 5  | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)  | TODO | |
+
 
 ## Note
 The specialization is a work in progress. The repo will be updated with the code from the assignments soon!
