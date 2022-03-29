@@ -1,10 +1,12 @@
 # Deep Learning Specialization
 Code repo of the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?) *by Andrew Ng* on [Coursera](https://www.coursera.org/)
 
-![image](https://user-images.githubusercontent.com/8168416/159134989-2c020a40-05d5-491f-8d77-b2d0198f9af6.png)
+![image](https://user-images.githubusercontent.com/8168416/160711531-8f7bd4f3-7d2b-40c6-be8c-4f93eb8f16bb.png)
 
 ## Contents
-The Deep Learning Specialization is a foundational program that will help participants understand the capabilities, challenges, and consequences of deep learning and prepare them to engage with the development of leading-edge AI technology. 
+The Deep Learning Specialization is a foundational program that will help participants understand the capabilities, challenges, and consequences of deep learning and prepare them to engage with the development of leading-edge AI technology.
+
+![image](https://user-images.githubusercontent.com/8168416/160712051-00c80392-2f99-44f1-8e21-c174c9fcc61e.png)
 
 Main topics of this specialization:
  - Build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers.
