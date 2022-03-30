@@ -8,7 +8,7 @@ The Deep Learning Specialization is a foundational program that will help partic
 
 ![image](https://user-images.githubusercontent.com/8168416/160712051-00c80392-2f99-44f1-8e21-c174c9fcc61e.png)
 
-Main topics of this specialization:
+**Main topics of this specialization**:
  - Build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers.
  - Learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization.
  - Master theoretical concepts and their industry applications using Python and TensorFlow
