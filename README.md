@@ -1,4 +1,4 @@
-# Deep Learning Specialization
+# Deep Learning
 Code repo of the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?) *by Andrew Ng* on [Coursera](https://www.coursera.org/)
 
 ![image](https://user-images.githubusercontent.com/8168416/160711531-8f7bd4f3-7d2b-40c6-be8c-4f93eb8f16bb.png)
